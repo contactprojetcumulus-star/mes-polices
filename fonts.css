@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'Higuen Serif';
+  src: url('HiguenSerif.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Gistesy';
+  src: url('Gistesy.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Silvex Editorial Thin';
+  src: url('SilvexEditorialThin.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
